@@ -1,0 +1,2 @@
+# ConvertDocAberrantWord
+解决关于PDF转换Word后部分字无法切换字体的问题
