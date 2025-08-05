@@ -44,10 +44,11 @@
 ![输入图片说明](%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3%E7%9A%84%E6%8F%92%E5%9B%BE/%E5%9B%BE%E7%89%878.png)
 
 ### 3. 下载源代码
-提供两个下载源代码的地址，
-GitHub可以在https://github.com/TrustTJMGmail/ConvertDocAberrantWord下载，如图：
+提供两个下载源代码的地址：
+GitHub可以在(https://github.com/TrustTJMGmail/ConvertDocAberrantWord)下载，如图：
+![输入图片说明](%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3%E7%9A%84%E6%8F%92%E5%9B%BE/%E5%9B%BE%E7%89%8722.png)
+码云可以在(https://gitee.com/TrustTJM/ConvertDocAberrantWord)，如图：
 ![输入图片说明](%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3%E7%9A%84%E6%8F%92%E5%9B%BE/%E5%9B%BE%E7%89%8720.png)
-码云可以在：https://gitee.com/TrustTJM/ConvertDocAberrantWord，如图：
 ![输入图片说明](%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3%E7%9A%84%E6%8F%92%E5%9B%BE/%E5%9B%BE%E7%89%8721.png)
 直接下载ZIP，然后解压即可。
 
